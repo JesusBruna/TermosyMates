@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+}
+
+.formulario-registro {
+    width: 400px;
+    background-color: antiquewhite;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Calibri';
+    box-shadow: 7px 13px 37px black;
+}
+
+@media screen and (max-width: 710px) {
+    .formulario-registro {
+        width: 80%;
+        }
+}
+.formulario-registro h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.control {
+    width: 100%;
+    background: blanchedalmond;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-family: "calibri";
+}
+
+.formulario-registro p {
+    height: 40px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 33px;
+}
+
+.formulario-registro a {
+    text-decoration: none;
+    color: black;
+}
+
+.boton {
+    width: 100%;
+    background: cornflowerblue;
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+}
+.volver {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+.volver-boton {
+    font-size: 20px;
+    background-color: blanchedalmond;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    box-shadow: 7px 13px 37px black;
+}

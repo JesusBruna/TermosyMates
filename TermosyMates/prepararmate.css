@@ -1,0 +1,40 @@
+.formato {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.img-preparacion {
+    width: 30%;
+    height: auto;
+}
+
+p {
+    text-align: center;
+    width: 300px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 15px;
+    font-size: 30px;
+}
+.volver-boton {
+    font-size: 20px;
+    background-color: blanchedalmond;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    box-shadow: 7px 13px 37px black;
+}
+
+.volver {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0;
+    margin-right: 0;
+}
